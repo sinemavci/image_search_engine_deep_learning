@@ -1,6 +1,10 @@
 # image_search_engine_deep_learning
 STL-10 veriseti üzerinde eğitilen model ile yüklenen resim üzerinde sınıflandırma gerçekleştirilebilen ve bu 10 sınıf sorgusuna göre o sınıfa ait resimleri getirebilen Deep Learning arama motorudur.
 
+İş Akış Şeması : 
+
+![alt text](https://github.com/sinemavci/image_search_engine_deep_learning/blob/master/flow_1.png)
+
 Flask server üzerinde çalışan web uygulamasını çalıştırmak için :
 
 1) python define_objects.py
