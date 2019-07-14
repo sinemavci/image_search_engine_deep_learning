@@ -1,0 +1,346 @@
+static/img/train_image_png_1.png 
+ [('kus', 99.87745)] 
+static/img/train_image_png_10.png 
+ [('gemi', 98.65346)] 
+static/img/train_image_png_100.png 
+ [('kopek', 99.96601)] 
+static/img/train_image_png_101.png 
+ [('araba', 98.43256)] 
+static/img/train_image_png_102.png 
+ [('maymun', 99.999916)] 
+static/img/train_image_png_103.png 
+ [('kus', 99.93775)] 
+static/img/train_image_png_104.png 
+ [('ucak', 99.7948)] 
+static/img/train_image_png_105.png 
+ [('ucak', 99.24141)] 
+static/img/train_image_png_106.png 
+ [('gemi', 99.9972)] 
+static/img/train_image_png_107.png 
+ [('ucak', 100.0)] 
+static/img/train_image_png_108.png 
+ [('geyik', 99.99968)] 
+static/img/train_image_png_109.png 
+ [('araba', 99.913376)] 
+static/img/train_image_png_11.png 
+ [('ucak', 99.99906)] 
+static/img/train_image_png_110.png 
+ [('geyik', 99.99273)] 
+static/img/train_image_png_111.png 
+ [('kedi', 99.9967)] 
+static/img/train_image_png_112.png 
+ [('araba', 97.73073)] 
+static/img/train_image_png_113.png 
+ [('geyik', 99.97223)] 
+static/img/train_image_png_114.png 
+ [('kopek', 99.966705)] 
+static/img/train_image_png_115.png 
+ [('kus', 99.84519)] 
+static/img/train_image_png_116.png 
+ [('araba', 99.76689)] 
+static/img/train_image_png_117.png 
+ [('geyik', 99.88992)] 
+static/img/train_image_png_118.png 
+ [('geyik', 100.0)] 
+static/img/train_image_png_119.png 
+ [('gemi', 65.38749)] 
+static/img/train_image_png_12.png 
+ [('at', 98.436966)] 
+static/img/train_image_png_120.png 
+ [('ucak', 99.99741)] 
+static/img/train_image_png_121.png 
+ [('kopek', 99.99674)] 
+static/img/train_image_png_122.png 
+ [('araba', 92.16564)] 
+static/img/train_image_png_123.png 
+ [('kopek', 99.75394)] 
+static/img/train_image_png_124.png 
+ [('maymun', 99.79367)] 
+static/img/train_image_png_125.png 
+ [('ucak', 99.99714)] 
+static/img/train_image_png_126.png 
+ [('kopek', 99.70808)] 
+static/img/train_image_png_127.png 
+ [('kedi', 99.99922)] 
+static/img/train_image_png_128.png 
+ [('kedi', 99.997116)] 
+static/img/train_image_png_129.png 
+ [('at', 53.39846)] 
+static/img/train_image_png_13.png 
+ [('ucak', 99.9772)] 
+static/img/train_image_png_130.png 
+ [('kedi', 99.9917)] 
+static/img/train_image_png_131.png 
+ [('at', 99.90315)] 
+static/img/train_image_png_132.png 
+ [('geyik', 99.97219)] 
+static/img/train_image_png_133.png 
+ [('gemi', 99.55674)] 
+static/img/train_image_png_134.png 
+ [('kedi', 99.86778)] 
+static/img/train_image_png_135.png 
+ [('kus', 99.86274)] 
+static/img/train_image_png_136.png 
+ [('kedi', 99.99814)] 
+static/img/train_image_png_137.png 
+ [('maymun', 99.99949)] 
+static/img/train_image_png_138.png 
+ [('geyik', 99.92456)] 
+static/img/train_image_png_139.png 
+ [('at', 99.97104)] 
+static/img/train_image_png_14.png 
+ [('gemi', 95.28422)] 
+static/img/train_image_png_140.png 
+ [('ucak', 99.813995)] 
+static/img/train_image_png_141.png 
+ [('kamyon', 99.90258)] 
+static/img/train_image_png_142.png 
+ [('kopek', 92.86126)] 
+static/img/train_image_png_143.png 
+ [('araba', 99.9788)] 
+static/img/train_image_png_144.png 
+ [('kamyon', 99.98805)] 
+static/img/train_image_png_145.png 
+ [('kedi', 91.60791)] 
+static/img/train_image_png_146.png 
+ [('gemi', 99.99803)] 
+static/img/train_image_png_147.png 
+ [('gemi', 99.99138)] 
+static/img/train_image_png_148.png 
+ [('at', 98.76056)] 
+static/img/train_image_png_149.png 
+ [('kus', 81.374565)] 
+static/img/train_image_png_15.png 
+ [('maymun', 99.97676)] 
+static/img/train_image_png_150.png 
+ [('kamyon', 99.93355)] 
+static/img/train_image_png_151.png 
+ [('gemi', 99.88686)] 
+static/img/train_image_png_152.png 
+ [('araba', 99.565315)] 
+static/img/train_image_png_153.png 
+ [('ucak', 99.99797)] 
+static/img/train_image_png_154.png 
+ [('kus', 99.49687)] 
+static/img/train_image_png_155.png 
+ [('araba', 96.045296)] 
+static/img/train_image_png_156.png 
+ [('maymun', 99.976166)] 
+static/img/train_image_png_157.png 
+ [('kopek', 97.92489)] 
+static/img/train_image_png_158.png 
+ [('maymun', 99.99078)] 
+static/img/train_image_png_159.png 
+ [('gemi', 99.998436)] 
+static/img/train_image_png_16.png 
+ [('at', 98.072495)] 
+static/img/train_image_png_160.png 
+ [('maymun', 99.41697)] 
+static/img/train_image_png_161.png 
+ [('araba', 98.8978)] 
+static/img/train_image_png_162.png 
+ [('araba', 97.37464)] 
+static/img/train_image_png_163.png 
+ [('maymun', 99.852104)] 
+static/img/train_image_png_164.png 
+ [('gemi', 99.99579)] 
+static/img/train_image_png_165.png 
+ [('gemi', 99.99975)] 
+static/img/train_image_png_166.png 
+ [('kamyon', 48.976868)] 
+static/img/train_image_png_167.png 
+ [('araba', 98.9293)] 
+static/img/train_image_png_168.png 
+ [('maymun', 99.964836)] 
+static/img/train_image_png_169.png 
+ [('geyik', 99.941086)] 
+static/img/train_image_png_17.png 
+ [('geyik', 99.98448)] 
+static/img/train_image_png_170.png 
+ [('kedi', 99.976295)] 
+static/img/train_image_png_171.png 
+ [('kopek', 99.99125)] 
+static/img/train_image_png_172.png 
+ [('at', 99.60575)] 
+static/img/train_image_png_173.png 
+ [('maymun', 99.9957)] 
+static/img/train_image_png_18.png 
+ [('at', 99.94994)] 
+static/img/train_image_png_19.png 
+ [('araba', 99.60301)] 
+static/img/train_image_png_2.png 
+ [('kopek', 99.97481)] 
+static/img/train_image_png_20.png 
+ [('araba', 99.94053)] 
+static/img/train_image_png_21.png 
+ [('kus', 91.612434)] 
+static/img/train_image_png_22.png 
+ [('kus', 99.973885)] 
+static/img/train_image_png_23.png 
+ [('at', 99.96518)] 
+static/img/train_image_png_24.png 
+ [('araba', 80.424736)] 
+static/img/train_image_png_25.png 
+ [('kus', 99.217316)] 
+static/img/train_image_png_26.png 
+ [('gemi', 99.99989)] 
+static/img/train_image_png_27.png 
+ [('kopek', 99.92175)] 
+static/img/train_image_png_28.png 
+ [('kus', 99.9929)] 
+static/img/train_image_png_29.png 
+ [('kopek', 99.99555)] 
+static/img/train_image_png_3.png 
+ [('kus', 99.03439)] 
+static/img/train_image_png_30.png 
+ [('kopek', 99.242424)] 
+static/img/train_image_png_31.png 
+ [('ucak', 99.98211)] 
+static/img/train_image_png_32.png 
+ [('ucak', 99.9901)] 
+static/img/train_image_png_33.png 
+ [('ucak', 99.9721)] 
+static/img/train_image_png_34.png 
+ [('kus', 99.99511)] 
+static/img/train_image_png_35.png 
+ [('kedi', 99.998924)] 
+static/img/train_image_png_37.png 
+ [('maymun', 98.866974)] 
+static/img/train_image_png_38.png 
+ [('araba', 97.067276)] 
+static/img/train_image_png_39.png 
+ [('kus', 66.42659)] 
+static/img/train_image_png_4.png 
+ [('kus', 90.32556)] 
+static/img/train_image_png_40.png 
+ [('kedi', 99.99555)] 
+static/img/train_image_png_41.png 
+ [('kus', 99.96057)] 
+static/img/train_image_png_42.png 
+ [('at', 92.357025)] 
+static/img/train_image_png_4201.png 
+ [('kedi', 99.99888)] 
+static/img/train_image_png_43.png 
+ [('kus', 99.7647)] 
+static/img/train_image_png_44.png 
+ [('kedi', 99.988495)] 
+static/img/train_image_png_45.png 
+ [('maymun', 99.92772)] 
+static/img/train_image_png_46.png 
+ [('geyik', 99.99796)] 
+static/img/train_image_png_47.png 
+ [('kedi', 99.99907)] 
+static/img/train_image_png_48.png 
+ [('ucak', 99.9965)] 
+static/img/train_image_png_49.png 
+ [('at', 95.35101)] 
+static/img/train_image_png_5.png 
+ [('kedi', 99.995026)] 
+static/img/train_image_png_50.png 
+ [('maymun', 99.9947)] 
+static/img/train_image_png_51.png 
+ [('at', 93.94807)] 
+static/img/train_image_png_52.png 
+ [('kopek', 99.99877)] 
+static/img/train_image_png_53.png 
+ [('gemi', 99.786285)] 
+static/img/train_image_png_54.png 
+ [('ucak', 99.99958)] 
+static/img/train_image_png_55.png 
+ [('at', 99.93811)] 
+static/img/train_image_png_56.png 
+ [('kus', 99.05902)] 
+static/img/train_image_png_57.png 
+ [('kedi', 99.728035)] 
+static/img/train_image_png_58.png 
+ [('at', 99.8461)] 
+static/img/train_image_png_59.png 
+ [('gemi', 99.981766)] 
+static/img/train_image_png_6.png 
+ [('kamyon', 99.980194)] 
+static/img/train_image_png_60.png 
+ [('araba', 99.982056)] 
+static/img/train_image_png_61.png 
+ [('araba', 68.9791)] 
+static/img/train_image_png_62.png 
+ [('geyik', 65.03717)] 
+static/img/train_image_png_63.png 
+ [('kamyon', 94.38603)] 
+static/img/train_image_png_64.png 
+ [('kopek', 98.55953)] 
+static/img/train_image_png_65.png 
+ [('kus', 99.9411)] 
+static/img/train_image_png_66.png 
+ [('maymun', 99.97055)] 
+static/img/train_image_png_67.png 
+ [('gemi', 99.86022)] 
+static/img/train_image_png_68.png 
+ [('maymun', 99.92041)] 
+static/img/train_image_png_69.png 
+ [('gemi', 100.0)] 
+static/img/train_image_png_7.png 
+ [('maymun', 98.60446)] 
+static/img/train_image_png_70.png 
+ [('gemi', 99.967636)] 
+static/img/train_image_png_71.png 
+ [('kamyon', 99.930275)] 
+static/img/train_image_png_72.png 
+ [('ucak', 92.53766)] 
+static/img/train_image_png_73.png 
+ [('kopek', 99.88258)] 
+static/img/train_image_png_74.png 
+ [('ucak', 99.99775)] 
+static/img/train_image_png_75.png 
+ [('araba', 99.97774)] 
+static/img/train_image_png_76.png 
+ [('kopek', 99.96637)] 
+static/img/train_image_png_77.png 
+ [('kopek', 98.65449)] 
+static/img/train_image_png_78.png 
+ [('maymun', 99.99557)] 
+static/img/train_image_png_79.png 
+ [('gemi', 99.638596)] 
+static/img/train_image_png_8.png 
+ [('geyik', 98.98424)] 
+static/img/train_image_png_80.png 
+ [('kamyon', 44.141804)] 
+static/img/train_image_png_81.png 
+ [('kopek', 99.99968)] 
+static/img/train_image_png_82.png 
+ [('ucak', 99.97421)] 
+static/img/train_image_png_83.png 
+ [('gemi', 98.83015)] 
+static/img/train_image_png_84.png 
+ [('kedi', 99.89279)] 
+static/img/train_image_png_85.png 
+ [('araba', 99.53969)] 
+static/img/train_image_png_86.png 
+ [('kedi', 74.82309)] 
+static/img/train_image_png_87.png 
+ [('at', 99.94002)] 
+static/img/train_image_png_88.png 
+ [('kopek', 99.99695)] 
+static/img/train_image_png_89.png 
+ [('gemi', 89.4561)] 
+static/img/train_image_png_9.png 
+ [('kopek', 98.2803)] 
+static/img/train_image_png_90.png 
+ [('kedi', 99.66887)] 
+static/img/train_image_png_91.png 
+ [('maymun', 99.99803)] 
+static/img/train_image_png_92.png 
+ [('kamyon', 99.946365)] 
+static/img/train_image_png_93.png 
+ [('at', 87.89884)] 
+static/img/train_image_png_94.png 
+ [('at', 99.0081)] 
+static/img/train_image_png_95.png 
+ [('at', 98.23234)] 
+static/img/train_image_png_96.png 
+ [('kus', 98.15122)] 
+static/img/train_image_png_97.png 
+ [('ucak', 99.998344)] 
+static/img/train_image_png_98.png 
+ [('kopek', 99.996124)] 
+static/img/train_image_png_99.png 
+ [('ucak', 99.99176)] 

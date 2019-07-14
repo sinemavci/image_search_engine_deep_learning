@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+    <head><link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="index.css">
+</head>
+    <body>
+        <div class="container">
+            <h1 style="color:purple; text-align:center">Resim Arama Uygulaması</h1>
+            <p style="color:blue;">Yapabileceğiniz sorgular: kedi, köpek, araba, kuş, geyik, at, uçak, kamyon, gemi, maymun</p>
+            <form method="GET" enctype="multipart/form-data">
+                <div id="box">
+                <input type="text" id="search"  name="query_text">
+                <input type ="submit" name="action" value="Ara">
+                <i class="fa fa-search"></i>
+                </div> 
+               
+            </form>
+
+             <br>
+             <form method="POST" enctype="multipart/form-data">
+                <div id="sender">
+                <input type="file" name="query_img"><br>
+                <input type="submit">
+                </div>
+               
+            </form>
+            <h2>Sorgunuz:</h2>
+            <h2>{{ predicts }}<h2>
+            {% if query_path %}
+            <img src="{{ query_path }}" width="300px">
+            {% endif %}
+            <h2>Sonuçlar:</h2>
+            {% for score in scores %}
+            <figure style="float: left; margin-right: 20px; margin-bottom: 20px;">
+                <img src="{{ score[1] }}" height="200px" padding ="10px" border-width = "5"   border-color = "#0000CC" >
+            
+             </figure>
+            {% endfor %}
+
+
+             {% for score in scores_2 %}
+            <figure style="float: left; margin-right: 20px; margin-bottom: 20px;">
+                <img src="{{ score[1] }}" height="200px" padding ="10px" border-width = "5"   border-color = "#0000CC" >
+            
+             </figure>
+            {% endfor %}
+
+           
+          
+        </div>
+    </body>
+</html>
+
+

@@ -1,0 +1,10 @@
+ucak
+kus
+araba
+kedi
+geyik
+kopek
+at
+maymun
+gemi
+kamyon
