@@ -1,5 +1,5 @@
 # image_search_engine_deep_learning
-STL-10 veriseti üzerinde eğitilen model ile yüklenen resim üzerinde sınıflandırma gerçekleştirilebilen ve bu 10 sınıf sorgusuna göre o sınıfa ait resimleri getirebilen Deep Learning arama motorudur.
+STL-10 veriseti üzerinde eğitilen model ile yüklenen resim üzerinde sınıflandırma gerçekleştirilebilen ve bu 10 sınıf sorgusuna göre o sınıfa ait resimleri getirebilen Deep Learning arama uygulamasıdır.
 
 İş Akış Şeması : 
 
