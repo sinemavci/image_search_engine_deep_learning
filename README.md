@@ -6,7 +6,7 @@ Workflow Diagram:
 
 ![alt text](https://github.com/sinemavci/image_search_engine_deep_learning/blob/master/flow_1.png)
 
-Flask server üzerinde çalışan web uygulamasını çalıştırmak için :
+Usage :
 
 python define_objects.py
 
